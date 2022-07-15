@@ -13,7 +13,7 @@ I working with stacks:
 <a href="" title="HTML5"><img src="icons/html5.pdf" /></a>
 <a href="" title="Java Script"><img src="icons/javascript.pdf" /></a>
 <a href="" title="React"><img src="icons/react.pdf" /></a>
-<a href="" title="Node.js"><img src="icons/nodedotjs.pdf" /></a>
+<a href="" title="Node.js"><img src="icons/node.svg" /></a>
 
 <!--
 **Bender148/Bender148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
