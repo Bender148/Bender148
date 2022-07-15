@@ -10,7 +10,8 @@ How to reach me:
 
 I working with stacks:
 
-<a href="" title=""><img src="icons/icons.svg" /></a>
+<a href="" title="HTML5"><img src="icons/html.svg" /></a>
+<a href="" title="Node.js"><img src="icons/node.svg" /></a>
 
 <!--
 **Bender148/Bender148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
