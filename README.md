@@ -8,8 +8,12 @@ How to reach me:
 - 💬 LinkedIn: https://www.linkedin.com/in/vanya-suprun/
 - 📫 Email: bender.slam@gmail.com
 
-I working with stacks: 
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+I working with stacks:
+
+<a href="" title="HTML5"><img src="/icons/html5.pdf" /></a>
+<a href="" title="Java Script"><img src="/icons/javascript.pdf" /></a>
+<a href="" title="React"><img src="/icons/react.pdf" /></a>
+<a href="" title="Node.js"><img src="/icons/nodedotjs.pdf" /></a>
 
 <!--
 **Bender148/Bender148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
